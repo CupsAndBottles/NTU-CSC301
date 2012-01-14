@@ -1,0 +1,9 @@
+C:\Users\Nut\documents\visual studio 2010\Projects\MRTForm\MRTForm\bin\Release\MRTForm.exe
+C:\Users\Nut\documents\visual studio 2010\Projects\MRTForm\MRTForm\bin\Release\MRTForm.pdb
+C:\Users\Nut\documents\visual studio 2010\Projects\MRTForm\MRTForm\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Nut\documents\visual studio 2010\Projects\MRTForm\MRTForm\obj\x86\Release\MRTForm.Form1.resources
+C:\Users\Nut\documents\visual studio 2010\Projects\MRTForm\MRTForm\obj\x86\Release\MRTForm.Properties.Resources.resources
+C:\Users\Nut\documents\visual studio 2010\Projects\MRTForm\MRTForm\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Nut\documents\visual studio 2010\Projects\MRTForm\MRTForm\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Nut\documents\visual studio 2010\Projects\MRTForm\MRTForm\obj\x86\Release\MRTForm.exe
+C:\Users\Nut\documents\visual studio 2010\Projects\MRTForm\MRTForm\obj\x86\Release\MRTForm.pdb

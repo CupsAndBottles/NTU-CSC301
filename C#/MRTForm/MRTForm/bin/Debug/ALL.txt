@@ -1,0 +1,115 @@
+[North South Line]
+0,NS1/EW24,Jurong East
+1,NS2,Bukit Batok
+2,NS3,Bukit Gombak
+3,NS4,Choa Chu Kang
+4,NS5,Yew Tee
+5,NS7,Kranji
+6,NS8,Marsiling
+7,NS9,Woodlands
+8,NS10,Admiralty
+9,NS11,Sembawang
+10,NS13,Yishun
+11,NS14,Khatib
+12,NS15,Yio Chu Kang
+13,NS16,Ang Mo Kio
+14,NS17/CC15,Bishan
+15,NS18,Braddell
+16,NS19,Toa Payoh
+17,NS20,Novena
+18,NS21,Newton
+19,NS22,Orchard
+20,NS23,Somerset
+21,NS24/NE6/CC1,Dhoby Ghaut
+22,NS25/EW13,City Hall
+23,NS26/EW14,Raffles Place
+24,NS27,Marina Bay
+[End]
+
+[East West Line]
+25,EW1,Pasir Ris
+26,EW2,Tampines
+27,EW3,Simei
+28,EW4/CG0,Tanah Merah
+29,EW5,Bedok
+30,EW6,Kembangan
+31,EW7,Eunos
+32,EW8/CC9,Paya Lebar
+33,EW9,Aljunid
+34,EW10,Kallang
+35,EW11,Lavender
+36,EW12,Bugis
+22,NS25/EW13,City Hall
+23,NS26/EW14,Raffles Place
+37,EW15,Tanjong Pagar
+38,EW16/NE3,Outram Park
+39,EW17,Tiong Bahru
+40,EW18,Redhill
+41,EW19,Queenstown
+42,EW20,CommonWealth
+43,EW21/CC22,Buona Vista
+44,EW22,Dover
+45,EW23,Clementi
+0,NS1/EW24,Jurong East
+46,EW25,Chinese Garden
+47,EW26,Lakeside
+48,EW27,Boon Lay
+49,EW28,Pioneer
+50,EW29,Joo Koon
+[End]
+
+[North East Line]
+51,NE1/CC29,Harbour Front
+38,EW16/NE3,Outram Park
+52,NE4,Chinatown
+53,NE5,Clarke Quay
+21,NS24/NE6/CC1,Dhoby Ghaut
+54,NE7,Little India
+55,NE8,Farrer Park
+56,NE9,Boon Keng
+57,NE10,Potong Pasir
+58,NE11,Woodleigh
+59,NE12/CC13,Serangoon
+60,NE13,Kovan
+61,NE14,Hougang
+62,NE15,Buangkok
+63,NE16,Sengkang
+64,NE17,Punggol
+[End]
+
+[Circle Line]
+21,NS24/NE6/CC1,Dhoby Ghaut
+65,CC2,Bras Basah
+66,CC3,Esplanade
+67,CC4,Promenade
+68,CC5,Nicoll Highway
+69,CC6,Stadium
+70,CC7,Mountbatten
+71,CC8,Dakota
+32,EW8/CC9,Paya Lebar
+72,CC10,MacPherson
+73,CC11,Tai Seng
+74,CC12,Bartley
+59,NE12/CC13,Serangoon
+75,CC14,Lorong Chuan
+14,NS17/CC15,Bishan
+76,CC16,Marymount
+77,CC17,Caldecott
+78,CC19,Botanic Gardens
+79,CC20,Farrer Road
+80,CC21,Holland Village
+43,EW21/CC22,Buona Vista
+81,CC23,one-north
+82,CC24,Kent Ridge
+83,CC25,Haw Par Villa
+84,CC26,Pasir Panjang
+85,CC27,Labrador Park
+86,CC28,Telok Blangah
+51,NE1/CC29,Harbour Front
+[End]
+
+[Changi Line]
+28,EW4/CG0,Tanah Merah
+87,CG1,Expo
+88,CG2,Changi Airport
+[End]
